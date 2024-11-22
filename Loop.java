@@ -15,7 +15,7 @@ public class Loop {
                 System.out.println("Invalid input. Enter a number between 0 and 100");
             }
         }
-
+        // Blah
         System.out.println("You have entered a valid input: " + num);
     }
 }
