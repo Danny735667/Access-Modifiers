@@ -20,7 +20,7 @@ public class Main {
         } else {
             quadrant = 4;
         }
-
+        // Blah
         sc.close();
 
         System.out.println("Result: " + quadrant + " Quadrant");
